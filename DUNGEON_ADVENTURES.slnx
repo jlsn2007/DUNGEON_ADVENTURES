@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DUNGEON_ADVENTURES/DUNGEON_ADVENTURES.vcxproj" Id="ce4021dc-25af-412c-9ba4-dca00e8837b1" />
+</Solution>
