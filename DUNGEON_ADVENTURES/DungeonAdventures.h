@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 
 // Define una pausa en milisegundos para Windows y otros sistemas.
 #ifdef _WIN32
