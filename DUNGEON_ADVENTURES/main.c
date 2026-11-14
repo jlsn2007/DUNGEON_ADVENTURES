@@ -2,9 +2,7 @@
 
 // Funcion principal: prepara los datos y ejecuta el menu del juego.
 int main() {
-    // Inicializa la semilla para generar numeros aleatorios.
-    srand((unsigned int)time(NULL));
-
+    
     // Declara al jugador y las estructuras del juego.
     struct Jugador heroe;
     Inventario miInventario = NULL;
