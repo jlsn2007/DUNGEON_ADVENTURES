@@ -31,7 +31,7 @@ int main() {
     // Repite el menu hasta que el jugador salga o termine la partida.
     do {
         printf("\n========================================\n");
-        printf("       LAS CRONICAS DEL CALABOZO       \n");
+        printf("       DUNGEON ADVENTURES       \n");
         printf("========================================\n");
         printf("1. Avanzar por el calabozo \n");
         printf("2. Revisar tu equipo y estado \n");
